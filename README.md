@@ -129,9 +129,6 @@ python manage.py runserver
 
 Access the app at: 👉 http://127.0.0.1:8000/
 
-🖥️ Screenshots (Optional)
-
-(Add images/gifs of your UI — patient registration, doctor dashboard, billing page, etc.)
 
 🔮 Future Enhancements
 
